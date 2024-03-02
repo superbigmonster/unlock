@@ -9,4 +9,4 @@ bash <(curl -L -s https://raw.githubusercontent.com/superbigmonster/unlock/main/
 
 Stream unlock
 
-wget -N https://cdn.jsdelivr.net/gh/fscarmen/warp/menu.sh && bash menu.sh
+wget -N https://raw.githubusercontent.com/superbigmonster/unlock/main/menu.sh && bash menu.sh
