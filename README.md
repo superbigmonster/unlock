@@ -4,7 +4,7 @@ unlock stream
 
 Stream Check
 
-bash <(curl -L -s https://raw.githubusercontent.com/lmc999/RegionRestrictionCheck/main/check.sh)
+bash <(curl -L -s https://raw.githubusercontent.com/superbigmonster/unlock/main/check.sh)
 
 
 Stream unlock
